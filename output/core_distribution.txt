@@ -1,0 +1,370 @@
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+email-univ,"{10: 17, 9: 8, 8: 1}"
+email-univ,"{10: 65.38461538461539, 9: 30.76923076923077, 8: 3.8461538461538463}"
+Name,Core_Distribution
+Name,Core_Distribution
+email-univ,"{10: 17, 9: 8, 8: 1}"
+email-univ,"{10: 65.38461538461539, 9: 30.76923076923077, 8: 3.8461538461538463}"
+Name,Core_Distribution
+Name,Core_Distribution
+email-univ,"{10: 17, 9: 8, 8: 1}"
+email-univ,"{10: 65.38461538461539, 9: 30.76923076923077, 8: 3.8461538461538463}"
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+email-univ,"{10: 17, 9: 8, 8: 1}"
+email-univ,"{10: 65.38461538461539, 9: 30.76923076923077, 8: 3.8461538461538463}"
+Name,Core_Distribution
+Name,Core_Distribution
+email-univ,"{10: 17, 9: 8, 8: 1}"
+email-univ,"{10: 65.38461538461539, 9: 30.76923076923077, 8: 3.8461538461538463}"
+Name,Core_Distribution
+Name,Core_Distribution
+email-univ,"{9: 8, 10: 17, 8: 1}"
+email-univ,"{10: 65.38461538461539, 9: 30.76923076923077, 8: 3.8461538461538463}"
+facebook,"{5: 1, 17: 1, 31: 9, 35: 1, 43: 1, 15: 2, 21: 2, 7: 2, 6: 1, 70: 3, 13: 1, 67: 1, 2: 1, 26: 1, 22: 2, 115: 1, 30: 1, 29: 1}"
+facebook,"{115: 3.125, 70: 9.375, 67: 3.125, 43: 3.125, 35: 3.125, 31: 28.125, 30: 3.125, 29: 3.125, 26: 3.125, 22: 6.25, 21: 6.25, 17: 3.125, 15: 6.25, 13: 3.125, 7: 6.25, 6: 3.125, 5: 3.125, 2: 3.125}"
+Name,Core_Distribution
+Name,Core_Distribution
+email-univ,"{10: 17, 9: 8, 8: 1}"
+email-univ,"{10: 65.38461538461539, 9: 30.76923076923077, 8: 3.8461538461538463}"
+facebook,"{70: 3, 31: 9, 115: 1, 17: 1, 5: 1, 35: 1, 21: 2, 7: 2, 22: 2, 15: 2, 13: 1, 30: 1, 29: 1, 43: 1, 2: 1, 67: 1, 26: 1, 6: 1}"
+facebook,"{115: 3.125, 70: 9.375, 67: 3.125, 43: 3.125, 35: 3.125, 31: 28.125, 30: 3.125, 29: 3.125, 26: 3.125, 22: 6.25, 21: 6.25, 17: 3.125, 15: 6.25, 13: 3.125, 7: 6.25, 6: 3.125, 5: 3.125, 2: 3.125}"
+oregon2_010331,"{23: 11, 30: 2, 28: 1, 31: 5, 26: 2, 11: 1, 27: 1}"
+oregon2_010331,"{31: 21.73913043478261, 30: 8.695652173913043, 28: 4.3478260869565215, 27: 4.3478260869565215, 26: 8.695652173913043, 23: 47.82608695652174, 11: 4.3478260869565215}"
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+email-univ,"{10: 17, 9: 8, 8: 1}"
+email-univ,"{10: 65.38461538461539, 9: 30.76923076923077, 8: 3.8461538461538463}"
+facebook,"{17: 1, 31: 9, 70: 3, 22: 2, 26: 1, 21: 2, 15: 2, 7: 2, 67: 1, 35: 1, 6: 1, 5: 1, 13: 1, 115: 1, 43: 1, 29: 1, 2: 1, 30: 1}"
+facebook,"{115: 3.125, 70: 9.375, 67: 3.125, 43: 3.125, 35: 3.125, 31: 28.125, 30: 3.125, 29: 3.125, 26: 3.125, 22: 6.25, 21: 6.25, 17: 3.125, 15: 6.25, 13: 3.125, 7: 6.25, 6: 3.125, 5: 3.125, 2: 3.125}"
+oregon2_010331,"{27: 1, 31: 5, 23: 11, 30: 2, 26: 2, 11: 1, 28: 1}"
+oregon2_010331,"{31: 21.73913043478261, 30: 8.695652173913043, 28: 4.3478260869565215, 27: 4.3478260869565215, 26: 8.695652173913043, 23: 47.82608695652174, 11: 4.3478260869565215}"
+Name,Core_Distribution
+Name,Core_Distribution
+email-univ,"{10: 17, 9: 8, 8: 1}"
+email-univ,"{10: 65.38461538461539, 9: 30.76923076923077, 8: 3.8461538461538463}"
+facebook,"{21: 2, 31: 9, 22: 2, 115: 1, 43: 1, 5: 1, 35: 1, 70: 3, 2: 1, 15: 2, 26: 1, 17: 1, 7: 2, 30: 1, 67: 1, 6: 1, 29: 1, 13: 1}"
+facebook,"{115: 3.125, 70: 9.375, 67: 3.125, 43: 3.125, 35: 3.125, 31: 28.125, 30: 3.125, 29: 3.125, 26: 3.125, 22: 6.25, 21: 6.25, 17: 3.125, 15: 6.25, 13: 3.125, 7: 6.25, 6: 3.125, 5: 3.125, 2: 3.125}"
+oregon2_010331,"{31: 5, 23: 11, 26: 2, 30: 2, 27: 1, 28: 1, 11: 1}"
+oregon2_010331,"{31: 21.73913043478261, 30: 8.695652173913043, 28: 4.3478260869565215, 27: 4.3478260869565215, 26: 8.695652173913043, 23: 47.82608695652174, 11: 4.3478260869565215}"
+oregon1_010331,"{17: 18, 14: 3, 15: 1, 10: 1}"
+oregon1_010331,"{17: 78.26086956521739, 15: 4.3478260869565215, 14: 13.043478260869565, 10: 4.3478260869565215}"
+CA-CondMat,"{15: 13, 8: 1, 10: 1, 13: 2, 11: 3, 14: 2, 12: 2, 22: 3, 9: 1}"
+CA-CondMat,"{22: 10.714285714285714, 15: 46.42857142857143, 14: 7.142857142857142, 13: 7.142857142857142, 12: 7.142857142857142, 11: 10.714285714285714, 10: 3.571428571428571, 9: 3.571428571428571, 8: 3.571428571428571}"
+p2p-Gnutella24,{5: 37}
+p2p-Gnutella24,{5: 100.0}
+caida,"{22: 24, 10: 1}"
+caida,"{22: 96.0, 10: 4.0}"
+CA-AstroPh,"{56: 2, 52: 6, 46: 2, 37: 2, 44: 5, 41: 3, 55: 5, 48: 1, 42: 1, 38: 2, 32: 1, 28: 1}"
+CA-AstroPh,"{56: 6.451612903225806, 55: 16.129032258064516, 52: 19.35483870967742, 48: 3.225806451612903, 46: 6.451612903225806, 44: 16.129032258064516, 42: 3.225806451612903, 41: 9.67741935483871, 38: 6.451612903225806, 37: 6.451612903225806, 32: 3.225806451612903, 28: 3.225806451612903}"
+Wiki-Vote,"{53: 25, 49: 1, 46: 1}"
+Wiki-Vote,"{53: 92.5925925925926, 49: 3.7037037037037033, 46: 3.7037037037037033}"
+Cit-HepTh,"{34: 24, 27: 1, 17: 1}"
+Cit-HepTh,"{34: 92.3076923076923, 27: 3.8461538461538463, 17: 3.8461538461538463}"
+inf-power,"{2: 24, 3: 5}"
+inf-power,"{3: 17.24137931034483, 2: 82.75862068965517}"
+cora,"{3: 13, 4: 15}"
+cora,"{4: 53.57142857142857, 3: 46.42857142857143}"
+inf-euroroad,{2: 33}
+inf-euroroad,{2: 100.0}
+Email-Enron,"{42: 3, 43: 20, 38: 1, 12: 1}"
+Email-Enron,"{43: 80.0, 42: 12.0, 38: 4.0, 12: 4.0}"
+Cit-HepPh,"{23: 4, 28: 11, 26: 3, 27: 4, 25: 1, 21: 1, 30: 2, 18: 1, 24: 1}"
+Cit-HepPh,"{30: 7.142857142857142, 28: 39.285714285714285, 27: 14.285714285714285, 26: 10.714285714285714, 25: 3.571428571428571, 24: 3.571428571428571, 23: 14.285714285714285, 21: 3.571428571428571, 18: 3.571428571428571}"
+inf-openflights,"{27: 3, 28: 11, 24: 9, 26: 2, 9: 1, 15: 1}"
+inf-openflights,"{28: 40.74074074074074, 27: 11.11111111111111, 26: 7.4074074074074066, 24: 33.33333333333333, 15: 3.7037037037037033, 9: 3.7037037037037033}"
+bio-dmela,"{10: 22, 11: 2, 9: 1}"
+bio-dmela,"{11: 8.0, 10: 88.0, 9: 4.0}"
+as20000102,"{12: 17, 9: 3, 11: 3, 4: 1}"
+as20000102,"{12: 70.83333333333334, 11: 12.5, 9: 12.5, 4: 4.166666666666666}"
+California,"{7: 4, 8: 23, 4: 2, 6: 1, 11: 1}"
+California,"{11: 3.225806451612903, 8: 74.19354838709677, 7: 12.903225806451612, 6: 3.225806451612903, 4: 6.451612903225806}"
+bio-grid-fission-yeast,"{34: 21, 12: 1, 33: 2, 11: 1, 19: 1, 10: 1, 6: 2, 4: 1, 14: 1, 32: 1, 7: 1}"
+bio-grid-fission-yeast,"{34: 63.63636363636363, 33: 6.0606060606060606, 32: 3.0303030303030303, 19: 3.0303030303030303, 14: 3.0303030303030303, 12: 3.0303030303030303, 11: 3.0303030303030303, 10: 3.0303030303030303, 7: 3.0303030303030303, 6: 6.0606060606060606, 4: 3.0303030303030303}"
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+as20000102,"{12: 17, 9: 3, 11: 3, 4: 1}"
+as20000102,"{12: 70.83333333333334, 11: 12.5, 9: 12.5, 4: 4.166666666666666}"
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution
+Name,Core_Distribution

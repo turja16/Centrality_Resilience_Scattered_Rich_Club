@@ -1,0 +1,26 @@
+email-univ,{}
+email-univ,{}
+email-univ,{}
+email-univ,{}
+facebook,{}
+facebook,{}
+email-univ,{}
+email-univ,{}
+facebook,{}
+facebook,{}
+email-univ,{}
+email-univ,{}
+facebook,{}
+facebook,{}
+oregon2_010331,{}
+oregon2_010331,{}
+oregon1_010331,{}
+oregon1_010331,{}
+CA-CondMat,{}
+CA-CondMat,{}
+as20000102,{}
+as20000102,{}
+as20000102,"{11: 16, 10: 3, 8: 3, 4: 1}"
+as20000102,"{11: 66.66666666666666, 10: 12.5, 8: 12.5, 4: 4.166666666666666}"
+as20000102,"{11: 16, 8: 3, 10: 3, 4: 1}"
+as20000102,"{11: 66.66666666666666, 10: 12.5, 8: 12.5, 4: 4.166666666666666}"
